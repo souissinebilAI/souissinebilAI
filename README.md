@@ -31,3 +31,7 @@ HTML/CSS/JS frontend, 23 automated tests, and a Git workflow with pull requests.
 **[crypto-daily-report](https://github.com/souissinebilAI/crypto-daily-report)**: a GitHub Actions
 workflow that fetches market data every morning and commits a report with a 7-day chart.
 Its daily commits are automated and labelled `chore(bot)`.
+
+### Contact
+
+📧 [souissinebil3@gmail.com](mailto:souissinebil3@gmail.com)
